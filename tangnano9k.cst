@@ -1,0 +1,66 @@
+IO_LOC  "clk" 52;
+IO_PORT "clk" PULL_MODE=UP;
+
+IO_LOC  "led[0]" 51;
+
+IO_LOC  "led[1]" 53;
+
+IO_LOC  "led[2]" 54;
+
+IO_LOC  "led[3]" 55;
+
+IO_LOC  "led[4]" 56;
+
+IO_LOC  "led[5]" 57;
+
+IO_LOC  "led[6]" 68;
+
+IO_LOC  "led[7]" 69;
+
+IO_LOC  "seven[0]" 42;
+
+IO_LOC  "seven[1]" 35;
+
+IO_LOC  "seven[2]" 34;
+
+IO_LOC  "seven[3]" 30;
+
+IO_LOC  "seven[4]" 29;
+
+IO_LOC  "seven[5]" 41;
+
+IO_LOC  "seven[6]" 40;
+
+IO_LOC  "seven[7]" 33;
+
+IO_LOC  "segment[0]" 25;
+
+IO_LOC  "segment[1]" 26;
+
+IO_LOC  "segment[2]" 27;
+
+IO_LOC  "segment[3]" 28;
+
+IO_LOC  "sw[0]" 73;
+IO_PORT "sw[0]" PULL_MODE=UP;
+
+IO_LOC  "sw[1]" 72;
+IO_PORT "sw[1]" PULL_MODE=UP;
+
+IO_LOC  "sw[2]" 71;
+IO_PORT "sw[2]" PULL_MODE=UP;
+
+IO_LOC  "sw[3]" 70;
+IO_PORT "sw[3]" PULL_MODE=UP;
+
+IO_LOC  "btn[0]" 77;
+IO_PORT "btn[0]" PULL_MODE=UP;
+
+IO_LOC  "btn[1]" 76;
+IO_PORT "btn[1]" PULL_MODE=UP;
+
+IO_LOC  "btn[2]" 75;
+IO_PORT "btn[2]" PULL_MODE=UP;
+
+IO_LOC  "btn[3]" 74;
+IO_PORT "btn[3]" PULL_MODE=UP;
